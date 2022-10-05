@@ -1,4 +1,4 @@
-# Real time - Facial Recognition By Luiz Viana
+# Real time - Facial Recognition By Gabriel Blanes
 Webcam Real Time Facial Recognition - OpenCV Python3
 Requirements:
 Python3, opencv_contrib_python, opencv_python, numpy, haarcascade-frontalface-default.xml.
